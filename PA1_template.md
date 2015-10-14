@@ -6,7 +6,6 @@ output:
 ---
 
 
-
 #Reproducible Research Assignment 1
 
 
